@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1595184463 source:c:\users\vict\documents\laboratorio 1\generalaprueba\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"FUNCIONES_GENERALA.H"
+
+1594089564 c:\users\vict\documents\laboratorio 1\generalaprueba\funciones_generala.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<ctype.h>
+	<cstring>
+	"rlutil.h"
+
+1593358107 c:\users\vict\documents\laboratorio 1\generalaprueba\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
